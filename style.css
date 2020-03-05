@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.header{
+    background: url('img/bg-color1.jpg') no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.header .navbar {
+    background-color: transparent !important;
+}
+
+.title{
+    text-decoration-color: darkgoldenrod;
+}
+
+
+/* FIX THAT */
+main{
+    margin-top: 33%;
+    color: whitesmoke;
+    
+}
+
+.custom-button{
+    border: solid 1px;
+    background: transparent;
+}
